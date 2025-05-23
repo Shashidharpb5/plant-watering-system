@@ -6,7 +6,7 @@ This project is an Arduino-based Automatic Plant Watering System that monitors t
 
 ## 📸 Project Preview
 
-<img src="images/output.jpg" alt="Project Output" width="500"/>
+<img src="images/output.png" alt="Project Output" width="500"/>
 
 ---
 
